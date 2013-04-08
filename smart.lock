@@ -9,7 +9,8 @@
       "bootstrap-updated": {},
       "router": {},
       "accounts-ui-bootstrap-dropdown": {},
-      "spin": {}
+      "spin": {},
+      "paginated-subscription": {}
     },
     "packages": {
       "bootstrap-updated": {
@@ -31,6 +32,11 @@
         "git": "https://github.com/sachag/meteor-spin.git",
         "tag": "v0.1.0",
         "commit": "20fc543866f9271f80006cbed31e4ccbadf29838"
+      },
+      "paginated-subscription": {
+        "git": "https://github.com/tmeasday/meteor-paginated-subscription.git",
+        "tag": "v0.1.1",
+        "commit": "1ba670364ddac149f404158407b2afc89db42ce5"
       },
       "page-js-ie-support": {
         "git": "https://github.com/tmeasday/meteor-page-js-ie-support.git",
